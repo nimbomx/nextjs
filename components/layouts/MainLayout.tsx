@@ -28,17 +28,20 @@ export const MainLayout: FC<PropsWithChildren> = ({ children }) => {
       <meta name="description" content="Next App Demo" />
       <link rel="icon" href="/favicon.ico" />
     </Head>
-    <nav>
+    <nav className={styles.nav}>
+      <div>
+        <Link href="/"> Home</Link>
+        { session && <Link href="/profile"> Profile</Link>}
+      </div>
       
-      <Link href="/"> Home</Link>
-      <Link href="/profile"> Profile</Link>
       {!session && !loading && (
-        <li>
-          <Link href='/auth'>Login</Link>
-        </li>
+        <Link href='/auth'>Login</Link>
       )}
 
-      { session && <button onClick={logoutHandler}>Logout</button>}
+      { session && <div>
+        <div className={styles.username}>{session.user?.email}</div>
+        <button onClick={logoutHandler}>Logout</button>
+      </div>}
     </nav>
     <main>
         { children }

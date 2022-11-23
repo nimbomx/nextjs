@@ -1,5 +1,5 @@
 .container {
-  padding: 0 2rem;
+  padding: 0;
 }
 
 .main {
@@ -126,4 +126,18 @@
   .logo img {
     filter: invert(1);
   }
+}
+
+
+.nav{
+  display: flex;
+  background-color: #222;
+  color: #eaeaea;
+  padding: 10px 20px;
+  align-items: center;
+  justify-content: space-between;
+}
+.username{
+  margin-right: 10px;
+  display: inline-block;
 }

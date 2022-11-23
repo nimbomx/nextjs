@@ -2,11 +2,9 @@ import { hashPassword } from '../../../lib/auth';
 import { connectToDatabase } from '../../../lib/db';
 
 async function handler(req, res) {
-    console.log('inHANDLER')
   if (req.method !== 'POST') {
     return;
   }
-  console.log('inSIGNUP')
   const data = req.body;
 
   const { email, password } = data;
