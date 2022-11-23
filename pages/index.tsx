@@ -1,8 +1,11 @@
+import { useSession } from 'next-auth/react';
 import { ReactElement } from 'react';
 import { MainLayout } from '../components/layouts/MainLayout';
 import { NextPageWithLayout } from './_app';
 
 const  Home:NextPageWithLayout = () => {
+
+
   return (
     <div  className='p-2'>
       HOME

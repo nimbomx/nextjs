@@ -14,13 +14,13 @@ export const MainLayout: FC<PropsWithChildren> = ({ children }) => {
     signOut();
   }
 
-  useEffect( () => {
-    console.log(status)
-  },[status])
+  // useEffect( () => {
+  //   console.log(status)
+  // },[status])
 
-  useEffect( () => {
-    console.log(session)
-  },[session])
+  // useEffect( () => {
+  //   console.log(session)
+  // },[session])
 
     return <div className={styles.container}>
     <Head>
