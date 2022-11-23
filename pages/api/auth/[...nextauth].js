@@ -6,19 +6,22 @@ import { connectToDatabase } from '../../../lib/db';
 
 export default NextAuth({
   session: {
-    jwt: true,
+    strategy: "jwt",
   },
   providers: [
     CredentialsProvider({
+        name: "Credentials",
+
       async authorize(credentials) {
+        console.log('start:Auth')
         const client = await connectToDatabase();
-
+        console.log('connected')
         const usersCollection = client.db().collection('users');
-
+        console.log('serCollection')
         const user = await usersCollection.findOne({
           email: credentials.email,
         });
-
+        console.log('findUser')
         if (!user) {
           client.close();
           throw new Error('No user found!');
@@ -28,13 +31,16 @@ export default NextAuth({
           credentials.password,
           user.password
         );
+        
 
         if (!isValid) {
           client.close();
           throw new Error('Could not log you in!');
         }
+        console.log('passwordValidated')
 
         client.close();
+        console.log('end:Auth')
         return { email: user.email };
         
       },

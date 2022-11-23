@@ -1,4 +1,4 @@
-import { FC, PropsWithChildren } from "react"
+import { FC, PropsWithChildren, useEffect } from "react"
 import Head from "next/head"
 import { useSession, signOut } from 'next-auth/react';
 
@@ -14,6 +14,13 @@ export const MainLayout: FC<PropsWithChildren> = ({ children }) => {
     signOut();
   }
 
+  useEffect( () => {
+    console.log(status)
+  },[status])
+
+  useEffect( () => {
+    console.log(session)
+  },[session])
 
     return <div className={styles.container}>
     <Head>
@@ -22,6 +29,7 @@ export const MainLayout: FC<PropsWithChildren> = ({ children }) => {
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <nav>
+      
       <Link href="/"> Home</Link>
       <Link href="/profile"> Profile</Link>
       {!session && !loading && (
