@@ -1,4 +1,4 @@
-import { getSession, useSession } from 'next-auth/react';
+import { getSession } from 'next-auth/react';
 import { ReactElement } from 'react';
 
 import { MainLayout } from '../../components/layouts/MainLayout';
