@@ -21,10 +21,46 @@ a {
   }
   body {
     color: white;
-    background: black;
+    background: #333;
   }
 }
 
 .p-2{
 padding: 2rem;;
+}
+
+
+/* body {
+  background-color: #eee;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 3px;
+}
+
+.node text { font: 16px sans-serif; }
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+} */
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 3px;
+}
+
+.node text { font: 16px sans-serif; }
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
+
+.node--leaf{
+  background-color: aqua;
 }

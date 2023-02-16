@@ -1,0 +1,456 @@
+﻿EMPLOYEE_ID,EMPLOYEE_FIRST_NAME,EMPLOYEE_LAST_NAME,PRIMARY_WORK_COUNTRY,MANAGER_ID,CC_FUNCTION,JOB_PROFILE_NAME,JOB_FAMILY,JOB_FAMILY_GROUP,TRACK,ORG_LEVEL
+1000287990,NEETAPAVANI,GUNTURU,United States of America,1000295292,Human Resources,"Manager, Data Analytics",Data Analytics,Data Analytics,Management,Level 5
+1000288973,Allan,Lenchico,Philippines,0871896,Human Resources,"Specialist 5, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000285931,Allen,Immanuel,India,1000302621,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000278068,Tabitha Sydney,Sosa,United States of America,1000302450,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000278061,Jeffrey,Cho,United States of America,1000263149,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 5
+7163283,An,Zhou,China,6019175,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000290253,Kamonrat,Aounon,Thailand,7163447,Human Resources,"Recruiter 1, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000291612,B.V.,Sai Saranya,India,1000289608,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000288882,Anthony,Gallego,United States of America,42164,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+39516,Divya,Pandey,India,1000280273,Human Resources,"Senior Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000294002,Anjie,Liu,China,1000289608,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000277458,Vanessa,Zenere,United States of America,1000296429,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 4
+1000289986,Shaquita,Steele,United States of America,42164,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+13384,Stefanie,Kelty,United States of America,1000299746,Flash Product R&D,"Business Partner 4, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000289497,Vikas,Rajora,India,1000302621,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000295344,Lisa,Reffold,United Kingdom,7344700,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000289608,Christopher,Kaczmarek,United States of America,1000244761,Human Resources,"Senior Manager, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 5
+1000289186,Daisy,Valencia,United States of America,7163447,Human Resources,"Coordinator 5, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 5
+1000293597,Karishma,Rai,India,39516,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 6
+7329821,Sahana,N,India,1000293486,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000294327,Bijun,Jiang,China,7338399,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+7337611,Suh Wei,Mah,Malaysia,1000244761,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000052886,Sasipat,Jampanan,Thailand,1000298190,Human Resources,"Analyst 3, Compensation & Benefits",Compensation & Benefits,Human Resources,Professional,Level 5
+1000298483,Akiko,Ueda,Japan,14295,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000297800,Ako,Murano,Japan,27606,Human Resources,"Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000295804,Lisa Ting Wei,Hu,United States of America,678,Human Resources,"Coordinator 5, Global Mobility",Global Mobility,Human Resources,Support,Level 6
+1000295406,Edelyn,Saliendra,Philippines,0106295,Human Resources,"Senior Supervisor, HR Operations",HR Operations,Human Resources,Management,Level 6
+1000286574,Casey,Mach,United States of America,1000263149,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000286648,Nicole,Pound,United States of America,1000235518,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000286067,Julia,Hawkins,United States of America,7333910,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000286911,Kylie,Lafrades,United States of America,1000296354,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 4
+1000296601,Lydia,Reyle-Corcoran,United States of America,1000301308,Human Resources,"Specialist 4, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+1000296180,Christopher,Kirby,United States of America,7163447,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000296088,Wan Yan,Zhang,China,1000289608,Silicon Division - Tech,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000297798,Satoshi,Suyama,Japan,1000289608,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+7340721,Ryan,Gilmore,United States of America,1000244761,Human Resources,"Recruiter 4, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000278448,Jennifer,Kurtz,United States of America,7333910,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000295292,Saravanan,Chidambaram,United States of America,1000297538,Human Resources,"Director, Data Analytics",Data Analytics,Data Analytics,Management,Level 4
+1000299565,Hasrafinas,Nordin,Malaysia,7195016,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+7314936,Tunku Syed Izzuddin Al-Qadri bin,Tunku Syed Azhar,Malaysia,1000256779,Human Resources,"Specialist 2, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 5
+1000298792,Tavia,Balter,United States of America,1000299487,Human Resources,"Specialist 2, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+7339510,Vishal,Verma,United States of America,1000244761,Human Resources,"Recruiter 4, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000295655,Eric,Coutryer,United States of America,1000259310,Human Resources,"Specialist 2, Benefits",Benefits,Human Resources,Professional,Level 6
+1000262747,Gabriella,Riehm,United States of America,1000296354,Human Resources,"Specialist 1, Diversity & Inclusion",Diversity & Inclusion,Human Resources,Professional,Level 4
+1000296594,Mudivedu,Mahalakshmi Bai,India,1000289608,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000298190,Prakash,Satagopan Ram,Singapore,1000302336,Human Resources,"Director, Compensation & Benefits",Compensation & Benefits,Human Resources,Management,Level 4
+1000296354,Olivia,Green,United States of America,1000291028,Human Resources,"Vice President, Diversity & Inclusion",Diversity & Inclusion,Human Resources,Management,Level 3
+1000295474,Kienila,Selvi,Malaysia,7001422,Human Resources,"Specialist 4, Human Resources",Human Resources,Human Resources,Professional,Level 5
+42164,Grace,Nicolas,United States of America,1000244761,Other,"Senior Supervisor, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 5
+1000222811,Boworn,Inpiw,Thailand,1000128254,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000261953,Dari,Kong,United States of America,7163447,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 5
+7336921,Nhat-Thu,Nguyen,United States of America,7156663,Human Resources,"Coordinator 5, Human Resources",Human Resources,Human Resources,Support,Level 6
+1000293486,Poonam,Jindal,India,1000280273,Human Resources,"Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000290563,Kavita,Shekhar,United States of America,1000285971,Human Resources,"Business Partner 6, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000296468,Sasli,sulaiman,Malaysia,1000298307,Human Resources,"Senior Manager, Employee Relations",Employee Relations,Human Resources,Management,Level 5
+1000294415,Judy,Huizar,United States of America,1000291028,Human Resources,"Executive Assistant 4, Administration",Administration,General Management/Administration,Professional,Level 3
+7329716,Shafiqah binti,Md Rashid,Malaysia,1000256779,Human Resources,"Specialist 1, Employee Relations",Employee Relations,Human Resources,Professional,Level 5
+1000292504,Haotian,Zhao,China,1000298343,Human Resources,"Analyst 2, Data Analytics",Data Analytics,Data Analytics,Professional,Level 6
+1000294492,Nur Sakila,Mohamad Hussain,Malaysia,1000244761,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+339410577,Naomi,Shibuya,Japan,7176990,Human Resources,"Coordinator 3, HR Operations",HR Operations,Human Resources,Support,Level 7
+1000286130,Andrew,Malabanan,Philippines,1000259272,Human Resources,"Specialist 3, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1000295154,Kaiqi,Chen,China,1000244761,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000298152,Shashi,Kant,India,1000302621,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000295022,Yue,Xie,China,13639,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000287012,Sivakumar,Radhakrishnan,India,1000280273,Human Resources,"Senior Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000296248,Sungjun,Kim,"Korea, Republic of",13639,Flash Product R&D,"Specialist 4, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000278622,Marissa,Bass,United States of America,7156663,Human Resources,"Coordinator 5, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 6
+1000294959,Yaling,Qiao,China,1000244761,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+7333910,Jennifer,Griffin,United States of America,1000267879,Human Resources,"Director, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000297947,Helena,Tran,United States of America,7163447,Human Resources,"Coordinator 4, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 5
+1000298371,Miyu,Kasamatsu,Japan,7163447,Human Resources,"Coordinator 3, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 5
+7340261,Richard,Reed,United States of America,7338399,Human Resources,"Recruiter 5, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000297467,Michael,Terrell,United States of America,42164,Human Resources,"Recruiter 1, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000296987,Tapati,Dutta,India,1000280273,Flash Product R&D,"Manager 4, Program Management Engineering",Program Management Engineering,Engineering,Professional,Level 5
+1000300613,Justin,Reading,United States of America,1000295292,Human Resources,"Analyst 3, HR Systems",HR Systems,Human Resources,Professional,Level 5
+1000299028,Lee Chien,H'ng,Malaysia,1000256779,Human Resources,"Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000300213,Stephanie,Jackson,United States of America,1000296354,Human Resources,"Director, Diversity & Inclusion",Diversity & Inclusion,Human Resources,Management,Level 4
+1000285207,Jingwei,Chen,China,1000258268,Global Operations,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000297319,Rattaphat,Sinka,Philippines,1000295406,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000297957,Prapassorn,Hanchanachai,Philippines,1000295406,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000300905,Jing,Su,China,6000099,Human Resources,"Specialist 4, Human Resources",Human Resources,Human Resources,Professional,Level 5
+7308928,Harween Kaur A/P,Bakhshissh Singh,Malaysia,1000289608,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+7338285,Samantha,Nguyen,United States of America,7156663,Human Resources,"Coordinator 5, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 6
+1000297606,Maria Concepcion,De Vera,United States of America,1000237221,Human Resources,"Analyst 4, Compensation",Compensation,Human Resources,Professional,Level 5
+7339328,Nur Amiyuddin,Azmy,Malaysia,7199199,Human Resources,"Specialist 2, HR Operations",HR Operations,Human Resources,Professional,Level 6
+1000299474,Camille,Baloloy,United States of America,7195016,Human Resources,"Coordinator 5, Global Mobility",Global Mobility,Human Resources,Support,Level 5
+1000298307,Janaina,Pereira Soares Sangy,United States of America,1000297538,Human Resources,"Director, Employee Relations",Employee Relations,Human Resources,Management,Level 4
+1000298486,Anne Stephanie,Peterson,Malaysia,1000256779,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000302176,Meena,Ganeshram,United States of America,1000285971,Human Resources,"Business Partner 5, Human Resources",Human Resources,Human Resources,Professional,Level 5
+7338399,Tomas,Diaz,United States of America,1000244761,Human Resources,"Senior Manager, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 5
+7342630,Ana,De Figueiredo Junqueira Bastos,United States of America,1000244761,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000290776,Bin,Sheng,China,1000263030,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000296722,Motoko,Nishimura,Japan,7165941,Human Resources,"Coordinator 3, Payroll",Payroll,Human Resources,Support,Level 6
+1000298457,Fionabelle,Ongkinglok,Philippines,1000271974,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000298343,Logesh,Manohar,United States of America,1000295292,Human Resources,"Senior Manager, Data Analytics",Data Analytics,Data Analytics,Management,Level 5
+1000298492,Julie,King,United States of America,1000301308,Human Resources,"Specialist 3, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+1000276042,Raina,Shakdher,United States of America,1000291028,Human Resources,"Vice President, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 3
+1000296947,Nur Syakirah binti,Ishak,Malaysia,1000176072,Human Resources,"Specialist 2, Global Mobility",Global Mobility,Human Resources,Professional,Level 6
+1000301652,Lazar,A,India,1000302621,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000297152,Ha,Pham,United States of America,7195016,Human Resources,"Specialist 2, Global Mobility",Global Mobility,Human Resources,Professional,Level 5
+1000185759,Saik Imm,Goh,Malaysia,1000256779,Human Resources,"Manager, Organizational Development/Training",Organizational Development/Training,Human Resources,Management,Level 5
+7199199,Kevin,Luizinho,United States of America,1000297847,Human Resources,"Manager, HR Operations",HR Operations,Human Resources,Management,Level 5
+1000296429,Antonella,Hayden,United States of America,1000291028,Human Resources,"Senior Director, Chief of Staff",Office Administration,General Management/Administration,Management,Level 3
+1000301309,YUNYEONG,LEE,United States of America,1000237221,Human Resources,"Analyst 3, Compensation",Compensation,Human Resources,Professional,Level 5
+1000076021,Varangkana,Chaowchumnum,Thailand,1000133446,Human Resources,"Specialist 2, Payroll",Payroll,Human Resources,Professional,Level 5
+7340939,Brenden,Lynch,United States of America,1000244761,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+7342139,Karen,Hobson,United States of America,1000289608,Human Resources,"Recruiter 4, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000297773,Hwee Cheng,Tan,Malaysia,1000289608,Silicon Division - Tech,"Recruiter 1, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000297847,Sherhan,Jayesinghe,United States of America,1000297538,Human Resources,"Senior Manager, HR Systems",HR Systems,Human Resources,Management,Level 4
+1000298488,Austin,Painchaud,United States of America,42164,Human Resources,"Recruiter 1, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000277467,Kelly,Huynh,United States of America,1000302450,Human Resources,"Business Partner 1, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000302318,Nutan,Singapuri,Singapore,1000291028,Human Resources,"Vice President, Human Resources",Human Resources,Human Resources,Management,Level 3
+7336830,Gregory,Stewart,United States of America,1000289608,Human Resources,"Recruiter 5, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000301880,Mayvadee,Chavachareon,Thailand,1000048212,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000300391,Michele,Burkhardt,United States of America,7344700,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000301065,Valerie,Marston,United States of America,1000297951,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000299487,Jonathan,Martin,United States of America,1000267879,Human Resources,"Director, Organizational Development/Training",Organizational Development/Training,Human Resources,Management,Level 5
+1000301308,Travis,Wilson,United States of America,1000267879,Human Resources,"Senior Manager, Organizational Development/Training",Organizational Development/Training,Human Resources,Management,Level 5
+1000298234,Ruinan,Guo,China,1000263030,Human Resources,"Specialist 3, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 5
+1000297951,Lydia,Tolbert,United States of America,1000297538,Human Resources,"Senior Manager, HR Operations",HR Operations,Human Resources,Management,Level 4
+1000297029,Sean,Lane,United States of America,1000263149,Human Resources,"Manager 2, Program Management",Program Management,Program Management,Professional,Level 5
+1000298622,Milica,Marić,Czechia,32468,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 6
+7339896,Ahvineshvaran a/l,Segaran,Malaysia,1000256779,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000302155,Jiaxin,Huang,China,1000280848,Human Resources,"Analyst 3, Compensation & Benefits",Compensation & Benefits,Human Resources,Professional,Level 6
+1000301873,Cynthia,Mendez,United States of America,1000258527,Human Resources,"Coordinator 3, Payroll",Payroll,Human Resources,Support,Level 6
+1000301081,Ifat,Laichter,Israel,1000235012,Human Resources,"Specialist 4, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000284666,Yuancai,Tian,China,1000263030,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000302000,Pei Ying Jessica,Tan,Singapore,1000298190,Human Resources,"Analyst 4, Compensation & Benefits",Compensation & Benefits,Human Resources,Professional,Level 5
+1000302459,Agnes,Esmilla Tatsumi,United States of America,1000163197,Human Resources,"Business Partner 4, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000302180,Jessica,Del Rosario,United States of America,1000301308,Human Resources,"Specialist 3, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+1000301190,Chirutha,Singh,India,12016,Human Resources,"Analyst 4, Compensation & Benefits",Compensation & Benefits,Human Resources,Professional,Level 5
+15689,Cui,Chen,China,16875,Human Resources,"Specialist 2, Payroll",Payroll,Human Resources,Professional,Level 6
+1000299746,Crispin,Van Buer,United States of America,1000285715,Human Resources,"Director, Human Resources",Human Resources,Human Resources,Management,Level 4
+1000299720,Lohita,Srinivasan,United States of America,1000295292,Human Resources,"Scientist 3, Data Science",Data Science,Data Analytics,Professional,Level 5
+1000301079,Biyu,Ling,China,3P02027,Human Resources,"Nurse 1, Health & Wellness",Health & Wellness,Human Resources,Professional,Level 6
+1000300816,Saveetha,A,India,1000287990,Human Resources,"Analyst 3, Data Analytics",Data Analytics,Data Analytics,Professional,Level 6
+1000302045,Mohamed Haziq Azahan Bin,Ibrahim,Malaysia,7001422,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000276594,B Hari Hara,Subramanyam,India,1000302621,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000289391,Sonia,Uddin,United States of America,1000259368,Human Resources,"Analyst 4, Compensation",Compensation,Human Resources,Professional,Level 4
+33169,Jevita,Thangarajoo,Malaysia,1000244761,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000301659,Hsing Chia,Hsieh,Taiwan,1000243453,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000302597,Deborah,D'Arcy,United States of America,1000299746,Human Resources,"Business Partner 5, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000302227,Fernanda,Martínez Mora,Mexico,1000247027,Human Resources,"Senior Supervisor, HR Operations",HR Operations,Human Resources,Management,Level 6
+1000302226,Natalia,Petrissans Karam,Mexico,1000248529,Human Resources,"Specialist 4, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1000302551,Diego,Romero,Mexico,1000302227,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 7
+1000302572,Sophia,Rodriguez Sequeyro del Rosal,Mexico,1000302227,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 7
+1000302450,Janell,Orozco,United States of America,1000297847,Human Resources,"Manager, HR Systems",HR Systems,Human Resources,Management,Level 5
+1000302621,Nagaraj,Krishnamurthy,India,0106295,Human Resources,"Manager, HR Operations",HR Operations,Human Resources,Management,Level 6
+1000294616,Christine,Nguyen,United States of America,1000296429,Human Resources,"Specialist 3, HR Operations",HR Operations,Human Resources,Professional,Level 4
+1000302634,Geoffrey,Miller,United States of America,1000298307,Human Resources,"Specialist 5, Employee Relations",Employee Relations,Human Resources,Professional,Level 5
+1000302603,Angel,Gonzalez Soto,Mexico,1000248529,Human Resources,"Specialist 4, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1000302114,Irini,Tsellas,United States of America,1000285715,Human Resources,"Business Partner 4, Human Resources",Human Resources,Human Resources,Professional,Level 4
+1000302336,Buyong,Lee,United States of America,1000291028,Human Resources,"Vice President, Compensation & Benefits",Compensation & Benefits,Human Resources,Management,Level 3
+1000297538,Shawn,Wing,United States of America,1000291028,Human Resources,"Vice President, HR Operations",HR Operations,Human Resources,Management,Level 3
+1000302604,Maria Jasmine,Vallecer,Philippines,1000275459,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+7163447,Jacqueline,Tran,United States of America,1000276042,Human Resources,"Director, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 4
+7344700,Lauren,Berkowitz,United States of America,1000276042,Human Resources,"Senior Manager, Project Management",Project Management,General Management/Administration,Management,Level 4
+1000302317,Hemalatha,Ponraj,India,1000298343,Human Resources,"Analyst 3, Data Analytics",Data Analytics,Data Analytics,Professional,Level 6
+1000302605,Alexa,Cardenas,Mexico,1000302227,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 7
+1000235518,Marie-Eve,Ferland,United States of America,1000302336,Human Resources,"Director, Benefits",Benefits,Human Resources,Management,Level 4
+1000233398,Arisara,Pliankham,Thailand,7199199,Human Resources,"Specialist 2, HR Operations",HR Operations,Human Resources,Professional,Level 6
+90075,Karen,Singh,United Kingdom,1000227716,Human Resources,"Specialist 4, Payroll",Payroll,Human Resources,Professional,Level 6
+1000280796,Cristina,Chua,Philippines,1000271974,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+2443805,Suchada,Sittipol,Thailand,2310064,Human Resources,"Specialist 3, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+339963009,Eriko,Fujie,Japan,7165941,Human Resources,"Coordinator 4, Payroll",Payroll,Human Resources,Support,Level 6
+1000221196,Suchin,Aiamworn,Thailand,1000219769,Human Resources,"Specialist 2, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1000258485,Jingni,Fu,China,1000244761,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+29051,Reiko,Hasegawa,Japan,14295,Human Resources,"Nurse 1, Health & Wellness",Health & Wellness,Human Resources,Professional,Level 6
+1000033996,Neeta,Shewaramani,United States of America,1000258527,Human Resources,"Specialist 3, Payroll",Payroll,Human Resources,Professional,Level 6
+1000093676,Khristina,Avalos,United States of America,1000238951,Human Resources,"Specialist 3, Global Mobility",Global Mobility,Human Resources,Professional,Level 5
+1000247439,Rose Ann,Angue,Philippines,7156416,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000207487,Suthatip,Saengduenchai,Thailand,1000133446,Human Resources,"Manager, Payroll",Payroll,Human Resources,Management,Level 5
+0300508,Rodolfo Gabriel,Bueno,Philippines,7156416,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000244761,Jason,Smith,United States of America,1000276042,Human Resources,"Senior Director, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 4
+18310,Hualan,Deng,China,16875,Human Resources,"Specialist 3, Payroll",Payroll,Human Resources,Professional,Level 6
+2420332,Supakorn,Saiprom,Thailand,2310064,Human Resources,"Specialist 2, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+33554,Hadar,Ben Yehuda,Israel,1000235012,Human Resources,"Senior Supervisor, Organizational Development/Training",Organizational Development/Training,Human Resources,Management,Level 5
+1225697,Gemma,Marasigan,Philippines,0871896,Human Resources,"Specialist 1, Employee Relations",Employee Relations,Human Resources,Professional,Level 5
+1000234429,Raja Aizad Izzuddin Bin,Raja Abdul Nasir,Malaysia,7001422,Human Resources,"Coordinator 3, Human Resources",Human Resources,Human Resources,Support,Level 5
+1000237103,Mun Yee,See,Malaysia,1000178655,Human Resources,"Senior Manager, Health & Wellness",Health & Wellness,Human Resources,Management,Level 5
+33135,Yael,Haba,Israel,1000289608,Human Resources,"Manager, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 6
+339871060,Masaomi,Tanaka,Japan,339340466,Other,"Specialist 5, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000062083,Jatuporn,Tulyathon,Thailand,1000219965,Human Resources,"Specialist 3, Global Mobility",Global Mobility,Human Resources,Professional,Level 6
+339340466,Reiji,Suzuki,Japan,1000302318,Human Resources,"Senior Manager, Human Resources",Human Resources,Human Resources,Management,Level 4
+26077,Yuying,Wang,China,1000263030,Human Resources,"Specialist 4, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000285971,Danielle,Shea,United States of America,1000285715,Human Resources,"Vice President, Human Resources",Human Resources,Human Resources,Management,Level 4
+1000248529,Annemarie,Delfino,United States of America,1000298307,Human Resources,"Manager, Employee Relations",Employee Relations,Human Resources,Management,Level 5
+1000285476,Paweena,Nuengput,Philippines,1000295406,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000053209,Norhayani Binti,Yusoff,Malaysia,7001422,Human Resources,"Specialist 1, Employee Relations",Employee Relations,Human Resources,Professional,Level 5
+1000271974,Paolo,Esposo,Philippines,0106295,Human Resources,"Manager, HR Operations",HR Operations,Human Resources,Management,Level 6
+1000259991,Catherine,Wu,United States of America,1000258527,Human Resources,"Coordinator 4, Payroll",Payroll,Human Resources,Support,Level 6
+13402,Yoichi,Kiwada,Japan,27606,Human Resources,"Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000229558,Pathitaya,Sathansom,Thailand,7199199,Human Resources,"Specialist 2, HR Operations",HR Operations,Human Resources,Professional,Level 6
+1000257379,Mara,Pagotto,United States of America,1000291028,Human Resources,"Vice President, Human Resources",Human Resources,Human Resources,Management,Level 3
+7182861,Ubonwan,Jaiua,Thailand,2200599,Human Resources,"Recruiter 1, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 7
+1000250576,Lisa,Bishop,United States of America,1000257379,Human Resources,"Executive Assistant 2, Administration",Administration,General Management/Administration,Professional,Level 4
+7153682,Ladawan,Yotsungnoen,Thailand,1000076343,Human Resources,"Nurse 3, Health & Wellness",Health & Wellness,Human Resources,Professional,Level 6
+1000170178,Wendy,van Bronkhorst,United States of America,1000285971,Human Resources,"Business Partner 6, Human Resources",Human Resources,Human Resources,Professional,Level 5
+7108605,Alongkorn,Kammoonkorn,Thailand,2310064,Human Resources,"Specialist 2, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+6000099,Yanxia,Su,China,1000302318,Human Resources,"Director, Human Resources",Human Resources,Human Resources,Management,Level 4
+1000227716,Ying Fei Celia,Chan,Hong Kong,1000133446,Human Resources,"Senior Manager, Payroll",Payroll,Human Resources,Management,Level 5
+1000256858,Kullanith,Chalanak,Thailand,1000226719,Human Resources,"Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+38397,Larissa,Buchbinder,Israel,1000235012,Human Resources,"Specialist 5, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000259310,Christina,Griffith,United States of America,1000235518,Human Resources,"Manager, Benefits",Benefits,Human Resources,Management,Level 5
+1000258527,Kerri,Iverson,United States of America,1000133446,Human Resources,"Senior Manager, Payroll",Payroll,Human Resources,Management,Level 5
+1000276729,Justin,Michael,India,7195016,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000258268,Jie,Chen,China,1000302318,Human Resources,"Senior Manager, Human Resources",Human Resources,Human Resources,Management,Level 4
+1000238951,Maraim,Kalam,Hong Kong,1000297538,Human Resources,"Director, Global Mobility",Global Mobility,Human Resources,Management,Level 4
+1000225893,Sutthida,Chan-Okul,Thailand,2200599,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 7
+0433703,Ricky,Loresca,Philippines,1000297847,Human Resources,"Manager, HR Systems",HR Systems,Human Resources,Management,Level 5
+1000222040,Sirirat,Wotampirat,Thailand,2200599,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 7
+0402208,Rhea,Labro,Philippines,0871896,Human Resources,"Specialist 4, Human Resources",Human Resources,Human Resources,Professional,Level 5
+7308653,Arisara,Konglerd,Thailand,7199199,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 6
+30383,Hooi Voon,Khaw,Malaysia,7333910,Human Resources,"Specialist 4, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+1000251269,Yu,Pu,China,7163447,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 5
+7114684,Jiraporn,Janpen,Thailand,2407519,Human Resources,"Coordinator 3, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 6
+1000241646,Shuk Theng,Teh,Malaysia,1000237103,Human Resources,"Nurse 2, Health & Wellness",Health & Wellness,Human Resources,Professional,Level 6
+0302300,Rubina,De Guzman,Philippines,1000178655,Human Resources,"Manager, Health & Wellness",Health & Wellness,Human Resources,Management,Level 5
+1000219965,Chatuphare,Pingkaew,Thailand,1000238951,Human Resources,"Manager, Global Mobility",Global Mobility,Human Resources,Management,Level 5
+1000278991,Czareana,Sarmiento,Philippines,0871896,Human Resources,"Specialist 5, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000235670,Tula,McGaugh,United States of America,1000248529,Human Resources,"Specialist 4, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1000116295,Shahrudin Bin,Bahador,Malaysia,1000296468,Human Resources,"Specialist 4, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+63621,Tima,Chaudhary,India,1000048212,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+2200396,Warissara,Setthak,Thailand,7199199,Human Resources,"Specialist 4, HR Operations",HR Operations,Human Resources,Professional,Level 6
+339411288,Ryotaro,Takigawa,Japan,339340466,Human Resources,"Specialist 3, Employee Relations",Employee Relations,Human Resources,Professional,Level 5
+1000235012,Carey,Reynolds,United Kingdom,1000285715,Human Resources,"Director, Human Resources",Human Resources,Human Resources,Management,Level 4
+1000263149,Kaisa,Larson,United States of America,1000276042,Human Resources,"Manager, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 4
+339921029,Tomoyuki,Fukuo,Japan,7176990,Human Resources,"Specialist 4, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000253402,Naruemol,Wachirawongborworn,Thailand,1000219769,Human Resources,"Specialist 4, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1000275459,Lester,Tiongson,Philippines,0106295,Human Resources,"Supervisor, HR Operations",HR Operations,Human Resources,Management,Level 6
+1000081158,Heh Shin,Tiong,Malaysia,1000076511,Human Resources,"Specialist 3, Payroll",Payroll,Human Resources,Professional,Level 6
+1000249836,Susan,Retuta,United States of America,678,Human Resources,"Coordinator 4, Global Mobility",Global Mobility,Human Resources,Support,Level 6
+12016,Shiri,Shaked,Israel,1000302336,Human Resources,"Director, Compensation",Compensation,Human Resources,Management,Level 4
+1000280848,Xiaoxia,Shen,China,1000298190,Human Resources,"Senior Manager, Compensation",Compensation,Human Resources,Management,Level 5
+1000258688,Lynda,Nguyen,United States of America,7195016,Human Resources,"Specialist 3, Global Mobility",Global Mobility,Human Resources,Professional,Level 5
+1000121860,Siti Hazura Binti,Mohamed,Malaysia,1000237103,Human Resources,"Coordinator 4, Human Resources",Human Resources,Human Resources,Support,Level 6
+3651,Noa,Eliav,Israel,1000248529,Human Resources,"Specialist 4, Human Resources",Human Resources,Human Resources,Professional,Level 6
+32280,Josephine,Bovatsek,United States of America,7176990,Human Resources,"Business Partner 3, Human Resources",Human Resources,Human Resources,Professional,Level 7
+2435959,Samunya,Dankamhang,Thailand,1000133446,Human Resources,"Specialist 2, Payroll",Payroll,Human Resources,Professional,Level 5
+7196526,Mosha,Liu,China,13639,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000048212,Milissa,Bedell,United States of America,1000296429,Human Resources,"Director, Community Relations",Community Relations,Human Resources,Management,Level 4
+1000249815,Kevin,Torosian,United States of America,1000133446,Human Resources,"Specialist 4, Payroll",Payroll,Human Resources,Professional,Level 5
+13639,Xiaoli,Gu,China,1000302318,Human Resources,"Senior Manager, Human Resources",Human Resources,Human Resources,Management,Level 4
+7314759,Adi,Biran,Israel,1000263149,Human Resources,"Recruiter 1, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000122471,Nurdiyana Binti,Abdul Ghani,Malaysia,7163447,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+2438478,Sucheera,Mongkolsilp,Thailand,1000219965,Human Resources,"Specialist 3, Global Mobility",Global Mobility,Human Resources,Professional,Level 6
+2310376,Nanthida,Pantangtong,Thailand,1000133446,Human Resources,"Specialist 4, Payroll",Payroll,Human Resources,Professional,Level 5
+1000248702,Kristina,Sahagun,Philippines,7156416,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+90060,Alison,Bauckham,United Kingdom,1000235012,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000132478,Nujarin,Suttisarn,Thailand,7163447,Human Resources,"Coordinator 3, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 5
+1000222076,Janmanee,Yodsingha,Thailand,7176990,Human Resources,"Specialist 2, HR Operations",HR Operations,Human Resources,Professional,Level 7
+7001188,Kasin Anak,Enggit,Malaysia,7001422,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000163197,Tammy,Posadas,United States of America,1000285715,Human Resources,"Senior Director, Human Resources",Human Resources,Human Resources,Management,Level 4
+7317856,Judith,Barbe,United States of America,1000259310,Human Resources,"Specialist 1, Benefits",Benefits,Human Resources,Professional,Level 6
+20923,Rony,Royz,Israel,1000235012,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000252804,Kewalee,Tongdecharoen,Thailand,7163447,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000150525,Chavalratana,Puckdinukul,Thailand,1000226719,Human Resources,"Senior Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000244879,Christina,Libardos,United States of America,1000247027,Human Resources,"Business Partner 3, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000020166,Lara,Sarkissian,United States of America,1000257379,Human Resources,"Specialist 5, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 4
+16315,Elvie,Nordstrom,United States of America,1000302450,Human Resources,"Specialist 2, HR Operations",HR Operations,Human Resources,Professional,Level 6
+339340074,Shin,Morimoto,Japan,7344700,Human Resources,"Manager, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 5
+1000049366,Jiraphan,Boontarawa,Thailand,1000259272,Human Resources,"Specialist 4, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1000036837,Paiboon,Yai-Im,Thailand,1000226719,Human Resources,"Manager, Employee Relations",Employee Relations,Human Resources,Management,Level 5
+38084,Shiri,Turtel,Israel,12016,Human Resources,"Analyst 4, Compensation & Benefits",Compensation & Benefits,Human Resources,Professional,Level 5
+35474,Vibha,Radhakrishna,India,1000299487,Human Resources,"Specialist 4, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+1000256779,Zetti binti,Radzi,Malaysia,1000302318,Human Resources,"Senior Manager, Organizational Development/Training",Organizational Development/Training,Human Resources,Management,Level 4
+1000279188,John,Leveris,United States of America,1000259368,Human Resources,"Analyst 4, Compensation",Compensation,Human Resources,Professional,Level 4
+7130797,Sophiya,Naksuk,Thailand,1000226719,Human Resources,"Senior Supervisor, Employee Communications",Employee Communications,Human Resources,Management,Level 5
+1000226719,Chee Wai,Mak,Thailand,1000302318,Human Resources,"Senior Director, Human Resources",Human Resources,Human Resources,Management,Level 4
+7137199,Odessa,Andrade,Philippines,1000248364,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+339340080,Yuki,Imamura,Japan,1000298190,Human Resources,"Senior Manager, Compensation & Benefits",Compensation & Benefits,Human Resources,Management,Level 5
+1000241895,Victoria,Carpenter,United States of America,1000302450,Human Resources,"Specialist 3, HR Operations",HR Operations,Human Resources,Professional,Level 6
+10985,QiuJin,Ji,China,1000263030,Human Resources,"Specialist 4, Human Resources",Human Resources,Human Resources,Professional,Level 5
+21140,Una,Duncan,Ireland,12016,Human Resources,"Specialist 3, Benefits",Benefits,Human Resources,Professional,Level 5
+1000229866,Lyka Jane,Bagasol,Philippines,7163447,Human Resources,"Recruiter 1, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+7323079,Nur Liyana Binti,Abdul Halim,Malaysia,7163447,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000257751,Michelle,Lum,United States of America,1000048212,Human Resources,"Senior Manager, Community Relations",Community Relations,Human Resources,Management,Level 5
+7118903,Trisha Mae,Pascasio,Philippines,1000244761,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+16875,Min,Yan,China,1000133446,Human Resources,"Manager, Payroll",Payroll,Human Resources,Management,Level 5
+1000072322,Poompong,Jaiman,Thailand,1000150525,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 6
+40305,Tania,Vilensky,Israel,1000235012,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 5
+7179462,Julia Anak,Bujang,Malaysia,7001422,Human Resources,"Coordinator 4, Human Resources",Human Resources,Human Resources,Support,Level 5
+1000174602,Rattanaporn,Mahadthai,Thailand,1000207487,Human Resources,"Specialist 3, Payroll",Payroll,Human Resources,Professional,Level 6
+7195016,Allen,Fernandez,United States of America,1000297538,Human Resources,"Director, Human Resources",Human Resources,Human Resources,Management,Level 4
+7314748,Michelle,Macario,United States of America,7176990,Human Resources,"Coordinator 2, HR Operations",HR Operations,Human Resources,Support,Level 7
+1000204254,Saw See,Cheah,Malaysia,1000076511,Human Resources,"Specialist 3, Payroll",Payroll,Human Resources,Professional,Level 6
+2430132,Sukanya,Kongkakate,Thailand,2310064,Human Resources,"Specialist 3, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1164197,Aileen,Lizarda,Philippines,0871896,Human Resources,"Specialist 3, Employee Relations",Employee Relations,Human Resources,Professional,Level 5
+1000280273,Kiranmai,Pendyala,India,1000285715,Human Resources,"Senior Director, Human Resources",Human Resources,Human Resources,Management,Level 4
+1000243453,Rueiching,Lin,Taiwan,13639,Human Resources,"Specialist 5, Human Resources",Human Resources,Human Resources,Professional,Level 5
+3P02027,Xiaomei,Yu,China,1000178655,Human Resources,"Manager, Health & Wellness",Health & Wellness,Human Resources,Management,Level 5
+1000128254,Laddawan,Wayo,Thailand,1000244761,Human Resources,"Senior Supervisor, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 5
+7156416,Joan,Arabit,Philippines,0106295,Human Resources,"Senior Supervisor, HR Operations",HR Operations,Human Resources,Management,Level 6
+1000222920,Charoenchai,Chaosaksiri,Thailand,1000219769,Human Resources,"Specialist 2, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1000232130,Niña Patrice,Corcolon,Philippines,1000248364,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000248364,Dominique Erika,Villarico,Philippines,0106295,Human Resources,"Senior Supervisor, HR Operations",HR Operations,Human Resources,Management,Level 6
+1000285385,Tina,Moon,United States of America,1000302318,Human Resources,"Business Partner 5, Human Resources",Human Resources,Human Resources,Professional,Level 4
+2310316,Vipavee,Kitnitchee,Thailand,1000226719,Human Resources,"Manager, Organizational Development/Training",Organizational Development/Training,Human Resources,Management,Level 5
+7308998,Qinglin,Wang,China,1000289608,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+22872,Liu,Wu,China,1000263030,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+38863,Sukriti,Chhabra,India,39516,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 6
+27160,Shiori,Noda,Japan,14295,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000021302,Warayuphat,Chanthasen,Thailand,1000219965,Human Resources,"Specialist 3, Global Mobility",Global Mobility,Human Resources,Professional,Level 6
+1000253179,Mohamad Aizat Bin,Mohamed Rosli,Malaysia,1000176072,Human Resources,"Specialist 3, Global Mobility",Global Mobility,Human Resources,Professional,Level 6
+31364,Ashok,G,India,1000244761,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000030434,Jutatip,Wutingam,Thailand,1000070462,Human Resources,"Coordinator 1, Human Resources",Human Resources,Human Resources,Support,Level 7
+1000135492,Sureerat,Trimoon,Thailand,2310316,Human Resources,"Specialist 2, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+1000231282,Mengyin,Wu,China,16875,Human Resources,"Specialist 3, Payroll",Payroll,Human Resources,Professional,Level 6
+1000209213,Nipaporn,Chalermchut,Thailand,2310316,Human Resources,"Specialist 3, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+1000076343,Noppawan,Jarutsukprasert,Thailand,1000178655,Human Resources,"Manager, Health & Wellness",Health & Wellness,Human Resources,Management,Level 5
+1000232737,Jamie,Bremen,United States of America,1000235518,Human Resources,"Specialist 4, Health & Wellness",Health & Wellness,Human Resources,Professional,Level 5
+7191119,Raquel,Tumbaga,Philippines,1000248364,Human Resources,"Specialist 3, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000277260,John Mark,Carpena,Philippines,1000244452,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000276732,Sarvesh,Verma,India,1000302621,Human Resources,"Specialist 2, HR Operations",HR Operations,Human Resources,Professional,Level 7
+3672,Michal,Shilton,Israel,1000133446,Human Resources,"Specialist 4, Payroll",Payroll,Human Resources,Professional,Level 5
+1000229868,Riz Denmar,Dolores,Philippines,0871896,Human Resources,"Specialist 1, Employee Relations",Employee Relations,Human Resources,Professional,Level 5
+339411427,Miho,Arakawa,Japan,339340466,Human Resources,"Specialist 2, Employee Relations",Employee Relations,Human Resources,Professional,Level 5
+27606,Maiko,Kato,Japan,1000302318,Human Resources,"Director, Human Resources",Human Resources,Human Resources,Management,Level 4
+1000222223,Kannika,Kaisingsom,Thailand,7163447,Human Resources,"Coordinator 2, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 5
+42003,Michal,Furman,Israel,1000133446,Human Resources,"Specialist 4, Payroll",Payroll,Human Resources,Professional,Level 5
+1000260283,Sharon,Magid,Israel,7344700,Human Resources,"Senior Manager, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 5
+1000259368,Brian,Holmen,United States of America,1000291028,Human Resources,"Vice President, Compensation",Compensation,Human Resources,Management,Level 3
+7323387,Elvina,Tiun,Malaysia,1000244761,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+32131,Noa,Kerem Talmor,Israel,7163447,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000263406,Minju,Kwon,United States of America,1000267879,Human Resources,"Specialist 2, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 5
+7153805,Yoshiaki,Katori,Japan,339340080,Human Resources,"Analyst 3, Compensation & Benefits",Compensation & Benefits,Human Resources,Professional,Level 6
+1000051019,Harvinder Kaur A/P,Surjeet Singh,Malaysia,1000237103,Human Resources,"Nurse 3, Health & Wellness",Health & Wellness,Human Resources,Professional,Level 6
+2407519,Ekarat,Longjai,Thailand,1000244761,Human Resources,"Senior Supervisor, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 5
+7001422,Angela Anak,Samson,Malaysia,1000302318,Human Resources,"Director, Human Resources",Human Resources,Human Resources,Management,Level 4
+7000034,Ah Yian,Lim,Malaysia,1000296468,Human Resources,"Specialist 4, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000273266,John Marlon,Molina,Philippines,1000275459,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+7165941,Mika,Miyashita,Japan,1000133446,Human Resources,"Manager, Payroll",Payroll,Human Resources,Management,Level 5
+0702008,Myla Ruth,Trinos,Philippines,0871896,Human Resources,"Specialist 3, Employee Relations",Employee Relations,Human Resources,Professional,Level 5
+1000053389,Somphit,Jantawee,Thailand,1000207487,Human Resources,"Specialist 4, Payroll",Payroll,Human Resources,Professional,Level 6
+1000002626,Supanika,Kuljittipong,Thailand,1000207487,Human Resources,"Specialist 3, Payroll",Payroll,Human Resources,Professional,Level 6
+2200599,Chuleekorn,Youngpitak,Thailand,7338399,Human Resources,"Senior Supervisor, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 6
+033993,Takehiko,Watanabe,Japan,339340466,Human Resources,"Coordinator 5, Human Resources",Human Resources,Human Resources,Support,Level 5
+1000241163,Lalynn,Chansri,Thailand,2310064,Human Resources,"Specialist 3, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1000259272,Thed,Gabor,Philippines,1000298307,Human Resources,"Manager, Employee Relations",Employee Relations,Human Resources,Management,Level 5
+1000013416,Sompist,Nak-Bua,Thailand,1000219769,Human Resources,"Specialist 3, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+2430130,Thanakrit,Prawat,Thailand,2310064,Human Resources,"Specialist 3, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1023596,Richelle,Salazar,Philippines,1000076511,Human Resources,"Senior Supervisor, Payroll",Payroll,Human Resources,Management,Level 6
+1000148714,Norhayati Binti,Abdul Aziz,Malaysia,1000237103,Human Resources,"Nurse 3, Health & Wellness",Health & Wellness,Human Resources,Professional,Level 6
+7101794,Cherrie Lou,Villapando,Philippines,7176990,Human Resources,"Specialist 2, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000247027,Kristen,Lomori,United States of America,1000295292,Human Resources,"Senior Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000133446,Jodi,Kirk,United States of America,1000297538,Human Resources,"Director, Payroll",Payroll,Human Resources,Management,Level 4
+0871896,Gil Paolo,De Guzman,Philippines,1000302318,Human Resources,"Senior Director, Human Resources",Human Resources,Human Resources,Management,Level 4
+1000143907,Wei Chen,Fong,Malaysia,1000076511,Human Resources,"Specialist 4, Payroll",Payroll,Human Resources,Professional,Level 6
+1000244452,Josephine Karen,Ang,Philippines,0106295,Human Resources,"Senior Supervisor, HR Operations",HR Operations,Human Resources,Management,Level 6
+1000260405,Courtney,Atchley,United States of America,1000257751,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 6
+7104230,Yang,Yang,China,6000099,Human Resources,"Manager, Organizational Development/Training",Organizational Development/Training,Human Resources,Management,Level 5
+1000176072,Kamal Bin,Abu Kasim,Malaysia,1000238951,Human Resources,"Manager, Global Mobility",Global Mobility,Human Resources,Management,Level 5
+1000219769,Nakritnattapol,Ratchatakosaiyakanon,Thailand,1000226719,Human Resources,"Senior Manager, Employee Relations",Employee Relations,Human Resources,Management,Level 5
+1000285828,Wen Hao,Chuang,United States of America,1000299487,Human Resources,"Specialist 4, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+1000225845,Panita,Ngamprasert,Thailand,2310316,Human Resources,"Specialist 3, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+1000261791,Terri,Fox,United States of America,1000285971,Human Resources,"Business Partner 5, Human Resources",Human Resources,Human Resources,Professional,Level 5
+7189755,Mohamad Rafie Bin,Abu Bakar,Malaysia,7001422,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000256224,Dorothy Sum Yu,Ho,Hong Kong,1000227716,Human Resources,"Specialist 3, Payroll",Payroll,Human Resources,Professional,Level 6
+1000070462,Utoomporn,Srijun,Thailand,1000076343,Human Resources,"Manager, Health & Wellness",Health & Wellness,Human Resources,Management,Level 6
+0106295,Maria Cecilia,Ravago,Philippines,1000295292,Human Resources,"Director, HR Operations",HR Operations,Human Resources,Management,Level 5
+19936,Lisa,Kho,United States of America,1000302450,Human Resources,"Specialist 4, HR Operations",HR Operations,Human Resources,Professional,Level 6
+7163918,Arnel,Montillana,Philippines,7199199,Human Resources,"Specialist 2, HR Operations",HR Operations,Human Resources,Professional,Level 6
+2012,Mitsuko,Nonaka,Japan,13402,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000284617,Judy,Lam,United States of America,1000258527,Human Resources,"Coordinator 3, Payroll",Payroll,Human Resources,Support,Level 6
+1000250175,Mingxuan,Yang,China,6000099,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000256737,XuanHua,Chen,China,6000099,Human Resources,"Specialist 4, Human Resources",Human Resources,Human Resources,Professional,Level 5
+7182400,Harkiran,Mundh,United States of America,7333910,Human Resources,"Specialist 1, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000267879,Marci,Paino,United States of America,1000257379,Human Resources,"Senior Director, Organizational Development/Training",Organizational Development/Training,Human Resources,Management,Level 4
+1000232330,Janelle,Rosales,Philippines,7163447,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+1000251852,Yuri,Aoyagi,Japan,1000244761,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 5
+339411423,Masumi,Seki,Japan,7199199,Human Resources,"Specialist 3, HR Operations",HR Operations,Human Resources,Professional,Level 6
+1000262344,Lisa,Sweeney,United States of America,1000302318,Human Resources,"Business Partner 6, Human Resources",Human Resources,Human Resources,Professional,Level 4
+14295,Hajime,Asada,Japan,27606,Human Resources,"Senior Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000276982,Ramachandran,R,India,1000302621,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+7000926,Lucy Anak,Kaba,Malaysia,7001422,Human Resources,"Coordinator 4, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 5
+1000274229,Paromita,Das,India,1000302621,Human Resources,"Specialist 2, HR Operations",HR Operations,Human Resources,Professional,Level 7
+7174821,Sawitree,Buahom,Thailand,7130797,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 6
+22175,Lili,Shao,China,1000298343,Human Resources,"Manager, Data Analytics",Data Analytics,Data Analytics,Management,Level 6
+17357,Jacqueline,Bonnit,United States of America,1000296354,Human Resources,"Specialist 3, Diversity & Inclusion",Diversity & Inclusion,Human Resources,Professional,Level 4
+0506898,Conrado,Artagame Jr.,Philippines,0871896,Human Resources,"Specialist 5, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000278996,Eric Bien,Anareta,Philippines,0871896,Human Resources,"Specialist 5, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000254247,Jennefer,Zuilan,Philippines,1000248364,Human Resources,"Specialist 2, HR Operations",HR Operations,Human Resources,Professional,Level 7
+20095,Wenbin,Zhang,China,1000258268,Human Resources,"Coordinator 1, HR Operations",HR Operations,Human Resources,Support,Level 5
+7329713,Quyen,Ha,United States of America,7156663,Human Resources,"Coordinator 5, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 6
+2310438,Siriporn,Lakmas,Thailand,1000259272,Human Resources,"Specialist 4, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+39939,Yutong,Wang,China,1000287990,Human Resources,"Analyst 3, Data Analytics",Data Analytics,Data Analytics,Professional,Level 6
+1000235436,Jean,Eraca,United States of America,7176990,Human Resources,"Coordinator 5, Human Resources",Human Resources,Human Resources,Support,Level 7
+1000256942,Phuong,Duong,United States of America,1000258527,Human Resources,"Specialist 3, Payroll",Payroll,Human Resources,Professional,Level 6
+1000232578,Shumon,Miyamoto,Japan,7163447,Human Resources,"Coordinator 3, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 5
+40137,Sarit,Steinblatt,Israel,1000289608,Human Resources,"Recruiter 4, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000259464,Dinah,Hayse,United States of America,7195016,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+678,Jeanine,Haro,United States of America,1000238951,Human Resources,"Senior Supervisor, Global Mobility",Global Mobility,Human Resources,Management,Level 5
+32468,Olivia,Varley,Ireland,1000235012,Human Resources,"Senior Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+339923020,Yumiko,Tomizawa,Japan,7163447,Human Resources,"Coordinator 4, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 5
+28972,Kiyomi,Aihara,Japan,1000259272,Human Resources,"Business Partner 4, Human Resources",Human Resources,Human Resources,Professional,Level 6
+7176990,Venita,Atwal,United States of America,1000247027,Human Resources,"Manager, HR Operations",HR Operations,Human Resources,Management,Level 6
+1000237221,Damon,Keeley,United States of America,1000302336,Human Resources,"Director, Compensation",Compensation,Human Resources,Management,Level 4
+2419442,Peeraya,Burapavinit,Thailand,2310064,Human Resources,"Specialist 3, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+1000229867,Mikael Erris,Santiago,Philippines,7338399,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000160407,Mohd Helmi Bin,Yusof,Malaysia,1000237103,Human Resources,"Specialist 2, Health & Wellness",Health & Wellness,Human Resources,Professional,Level 6
+1000259008,Patrisha Airis,Lanzanas,Philippines,1000248364,Human Resources,"Specialist 2, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000271648,Savitha,Krishnamurthy,India,7344700,Human Resources,"Senior Manager, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 5
+1000081666,Paweena,Utamka,Thailand,1000076343,Human Resources,"Coordinator 3, Human Resources",Human Resources,Human Resources,Support,Level 6
+1000080294,Norita Binti,Md Zin,Malaysia,7001422,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+6066,Min,Cheng,China,7176990,Human Resources,"Specialist 3, HR Operations",HR Operations,Human Resources,Professional,Level 7
+0202408,Edward,Piad,Philippines,1000219965,Human Resources,"Specialist 1, Global Mobility",Global Mobility,Human Resources,Professional,Level 6
+32641,Momoko,Takeuchi,Japan,7165941,Human Resources,"Specialist 2, Payroll",Payroll,Human Resources,Professional,Level 6
+1000221574,Somneuk,Katasila,Thailand,1000219769,Human Resources,"Specialist 2, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+22855,Shilpa,Nataraj,India,7165941,Human Resources,"Specialist 4, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000188283,Hairolnorazilah Binti,Hares,Malaysia,7001422,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000075427,Natapat,Makphong,Thailand,1000036837,Human Resources,"Specialist 2, Employee Relations",Employee Relations,Human Resources,Professional,Level 6
+2310064,Narong,Ningnoi,Thailand,1000226719,Human Resources,"Director, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000135344,Phattrawuth,Jaiharn,Thailand,1000150525,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 6
+7156663,Charliss,Rietz,United States of America,7163447,Human Resources,"Supervisor, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 5
+1000166481,Sukanya,Boonlueng,Thailand,1000128254,Human Resources,"Recruiter 1, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000229869,Mikhaela Raliegh,Mondejar,Philippines,7338399,Human Resources,"Recruiter 1, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+6019151,Weibin,Sun,China,7104230,Human Resources,"Specialist 3, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+27159,Yuki,Takada,Japan,7163447,Human Resources,"Coordinator 3, Talent Acquisition",Talent Acquisition,Human Resources,Support,Level 5
+7320153,Amiera Binti,Norman,Malaysia,7001422,Human Resources,"Coordinator 2, Human Resources",Human Resources,Human Resources,Support,Level 5
+1000281357,Maiko,Susaki,Japan,1000289608,Human Resources,"Recruiter 2, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000263030,Ying,Chen,China,1000302318,Human Resources,"Senior Manager, Human Resources",Human Resources,Human Resources,Management,Level 4
+1000192387,Mohd Fitri Bin,Khairudin,Malaysia,1000048212,Human Resources,"Manager, Community Relations",Community Relations,Human Resources,Management,Level 5
+1000184394,Cindy,Vu,United States of America,1000247027,Human Resources,"Business Partner 4, Human Resources",Human Resources,Human Resources,Professional,Level 6
+14231,Chenqi,Song,China,7199199,Human Resources,"Specialist 3, HR Operations",HR Operations,Human Resources,Professional,Level 6
+1000191674,Wai,Yu,United States of America,1000259368,Human Resources,"Specialist 4, Benefits",Benefits,Human Resources,Professional,Level 4
+6019175,Erqi,Chen,China,6000099,Human Resources,"Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000278986,Irene,Cheng,Philippines,1000271974,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+7114689,Hai Lin,Tan,Malaysia,1000076511,Human Resources,"Specialist 2, Payroll",Payroll,Human Resources,Professional,Level 6
+1000256336,Lesley,Brandon,United Kingdom,1000235012,Human Resources,"Specialist 4, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 5
+28925,Sayuri,Tabira,Japan,13402,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000256951,Ilynne,Guarin,United States of America,1000259368,Human Resources,"Administrative Assistant 5, Administration",Administration,General Management/Administration,Support,Level 4
+1000178655,Rohini Kamalanathan,Van Hoboken,Malaysia,1000302336,Human Resources,"Senior Director, Health & Wellness",Health & Wellness,Human Resources,Management,Level 4
+27389,Yasuhiro,Ichihashi,Japan,14295,Human Resources,"Specialist 5, Human Resources",Human Resources,Human Resources,Professional,Level 6
+1000074300,Sunisa,Kongsomprad,Thailand,2310316,Human Resources,"Coordinator 4, Organizational Development/Training",Organizational Development/Training,Human Resources,Support,Level 6
+1000277274,Nirachada,Acosta,Philippines,1000295406,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000015070,Jarinee,Suttabud,Thailand,7344700,Human Resources,"Senior Manager, Talent Acquisition",Talent Acquisition,Human Resources,Management,Level 5
+1889,Catherin,Happ,United States of America,1000163197,Human Resources,"Administrative Assistant 5, Administration",Administration,General Management/Administration,Support,Level 5
+1000076511,Geok Sim,Lim,Malaysia,1000133446,Human Resources,"Senior Manager, Payroll",Payroll,Human Resources,Management,Level 5
+7327417,Xuehan,Cheng,China,7176990,Human Resources,"Coordinator 3, HR Operations",HR Operations,Human Resources,Support,Level 7
+17919,Ryushi,Ishida,Japan,14295,Human Resources,"Senior Supervisor, Human Resources",Human Resources,Human Resources,Management,Level 6
+7150259,Sirirat,Jedjaratpong,Thailand,2310316,Human Resources,"Specialist 4, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 6
+7120006,Satoko,Sasagawa,Japan,339340466,Human Resources,"Specialist 3, Organizational Development/Training",Organizational Development/Training,Human Resources,Professional,Level 5
+1000258336,Shariffah Haszeqah Bt,S. Jainal Abdibin,Malaysia,7001422,Human Resources,"Specialist 3, Human Resources",Human Resources,Human Resources,Professional,Level 5
+3650,Racheli,Laist,Israel,1000048212,Human Resources,"Senior Manager, Human Resources",Human Resources,Human Resources,Management,Level 5
+1000151779,Imran Syahrill Bin,Ibrahim,Malaysia,7001422,Human Resources,"Specialist 2, Employee Relations",Employee Relations,Human Resources,Professional,Level 5
+7000055,Thai Liung,Bong,Malaysia,7001422,Human Resources,"Specialist 2, Human Resources",Human Resources,Human Resources,Professional,Level 5
+1000277301,Erez,Flichtman,Philippines,1000271974,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000285715,Karen,Sanders,United States of America,1000291028,Human Resources,"Vice President, Human Resources",Human Resources,Human Resources,Management,Level 3
+1000276223,Phongpan,Dongyen,Philippines,1000295406,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000255243,Yun,Chi,China,1000289608,Human Resources,"Recruiter 3, Talent Acquisition",Talent Acquisition,Human Resources,Professional,Level 6
+1000151552,Jirayu,Inkhong,Thailand,7130797,Human Resources,"Specialist 2, Employee Communications",Employee Communications,Human Resources,Professional,Level 6
+1000081337,Siti Amyzah Binti,Md Radzi,Malaysia,1000076511,Human Resources,"Specialist 2, Payroll",Payroll,Human Resources,Professional,Level 6
+1000274425,Sheremiel,Tan,Philippines,1000275459,Human Resources,"Specialist 1, HR Operations",HR Operations,Human Resources,Professional,Level 7
+1000291028,ABC-CB,XYZ-CB,United States of America,1000276212,Human Resources,"EVP & Chief People Officer, Human Resources",Human Resources,Human Resources,Management,Level 2
+1000276212,ABC,XYZ,United States of America,0,Executive Office,"Chief Executive Officer, WD",Administration,General Management/Administration,Management,Level 1
