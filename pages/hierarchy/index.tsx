@@ -17,9 +17,23 @@ import * as d3 from "d3";
 import styles from "./index.module.css"
 import { linkHorizontal, linkVertical, tree, zoom, D3ZoomEvent } from "d3";
 
-
+const Card = () => {
+    return <h2>Card</h2>
+}
+function CustomDiv() {
+    return (
+      <foreignObject height="200" width="200">
+        <div style={{ background: "red" }}> Some text </div>
+      </foreignObject>
+    );
+  }
+  
+const nH = 50
+const nW = 100
+const sV = 40
+const sH = 10
 const width = 1000
-const height = 700
+const height = 600
 const margin = {
     top:50,
     left:50,
@@ -46,7 +60,7 @@ const Hierarchy = () => {
             .attr('width',width)
             .attr('height',height)
             .append('g')
-            .attr('transform',`translate(${margin.top},${margin.left})`);
+            .attr('transform',`translate(${width/2},${margin.top})`);
         
         svg.call(zoom().on('zoom', (e:D3ZoomEvent) => {
             g.attr('transform',e.transform)
@@ -54,7 +68,7 @@ const Hierarchy = () => {
         const treemap = tree()
         .size([innerWidth,innerHeight])
         // .size([height, width])
-        .nodeSize([50,60])
+        .nodeSize([nW+sH,nH+sV])
         // .separation( (a, b) => a.parent == b.parent ? 1 : 2);
         // .separation( (a, b) => (a.parent == b.parent ? 1 : 2) / a.depth );
         let nodes:any = d3.hierarchy(treeData, (d:any) => d.children);
@@ -98,11 +112,25 @@ const Hierarchy = () => {
             //     d.x + ")");
 
         node.append("rect")
-        .attr('width', 40)
-        .attr('height', 40)
-        .attr('x', -20)
-        .attr('y', -20)
-        .style("fill", "blue");
+        .attr('width', nW)
+        .attr('height', nH)
+        .attr('x', -(nW/2))
+        .attr('y', -(nH/2))
+        .style("fill","white")
+        .style("stroke", "blue")
+        // .on("mouseover", (event:MouseEvent) => console.log(event))
+        .on("click", (event:MouseEvent, d:any) => console.log(d))
+
+
+
+        // node.append("foreignObject")
+        // .attr('width', nW)
+        // .attr('height', nH+10)
+        // .attr('x', -(nW/2))
+        // .attr('y', -(nH/2)-10)
+        // .append('xhtml:div')
+        // .html('<h1 onClick="alert(\'test\')">Test</h1>')
+
         // node.append("circle")
         // .attr("r", 10)
         // .style("stroke", "grey")
@@ -113,8 +141,9 @@ const Hierarchy = () => {
 
         node.append("text")
         .attr("dy", ".35em")
-        .attr("x", 5)
-        .attr("y", 5)
+        .attr("x", -(nW/2-10))
+        .attr("y", -5)
+        .style("pointer-events", "none")
         // .attr("x", (d:any) => d.children ? (d.data.value + 5) * -1 :
         //     d.data.value + 5)
         // .attr("y", (d:any) => d.children && d.depth !== 0 ?
@@ -129,15 +158,11 @@ const Hierarchy = () => {
     //   }, [treeData]);
 
     const getData = async() => {
-         const data = await d3.csv("/api/staticdata")
-         // console.log(data)
-         data.forEach(function(d:any) {                              
+        const data = await d3.csv("/api/staticdata")
+        data.forEach(function(d:any) {                              
              d.MANAGER_ID = d.MANAGER_ID === "0" ? '' : d.MANAGER_ID;                                   
-            }); 
-            setData(data)
-
-            
-
+        }); 
+        setData(data)
     }
 
     // const tree = d3.treemap();
@@ -150,10 +175,14 @@ const Hierarchy = () => {
 
         const collapse = (d:any) => {
             if (d.children) {
-                d._children = d.children;
-                d._children.forEach(collapse);
-                if(d.depth >= levels) d.children = null;
+                if(d.depth >= levels) {
+                    d._children = d.children;
+                    d._children.forEach(collapse);
+                    d.children = null;
+                }else{
+                    d.children.forEach(collapse);
                 }
+            }
         }
         collapse(root)
     
@@ -163,15 +192,19 @@ const Hierarchy = () => {
     useEffect( () => {
         if(data) update()
     },[data, update, levels])
+
     useEffect( () => {
         getData()
     },[])
     return (
         <div className={styles.body}>
+            <div>
             Hierarchy 
-            <input type="number" value={levels +1 } onChange={ e => setLevels( +e.target.value-1)}></input>
+            <input type="number" value={+levels +1 } onChange={ e => setLevels( +e.target.value-1)}></input>
 
-            <svg ref={svgRef} width={width} height={height} />
+            </div>
+
+            <svg ref={svgRef} width={width} height={height} style={{border:"solid 1px black"}} />
 
         </div>
     )
