@@ -17,6 +17,8 @@ import * as d3 from "d3";
 import styles from "./index.module.css"
 import { linkHorizontal, linkVertical, tree, zoom, D3ZoomEvent } from "d3";
 
+let first = true;
+
 const Card = () => {
     return <h2>Card</h2>
 }
@@ -194,7 +196,11 @@ const Hierarchy = () => {
     },[data, update, levels])
 
     useEffect( () => {
-        getData()
+        if(first){
+            first = false
+
+            getData()
+        }
     },[])
     return (
         <div className={styles.body}>

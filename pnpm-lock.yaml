@@ -7,6 +7,10 @@ specifiers:
   bcryptjs: ^2.4.3
   csv-parser: ^3.0.0
   d3: ^7.8.2
+  d3-flextree: ^2.1.2
+  d3-hierarchy: ^3.1.2
+  d3-shape: ^3.2.0
+  d3-zoom: ^3.0.0
   eslint: 8.27.0
   eslint-config-next: 13.0.4
   mongodb: ^4.12.0
@@ -20,6 +24,10 @@ dependencies:
   bcryptjs: 2.4.3
   csv-parser: 3.0.0
   d3: 7.8.2
+  d3-flextree: 2.1.2
+  d3-hierarchy: 3.1.2
+  d3-shape: 3.2.0
+  d3-zoom: 3.0.0
   eslint: 8.27.0
   eslint-config-next: 13.0.4_e3uo4sehh4zr4i6m57mkkxxv7y
   mongodb: 4.14.0
@@ -1662,6 +1670,12 @@ packages:
       d3-dsv: 3.0.1
     dev: false
 
+  /d3-flextree/2.1.2:
+    resolution: {integrity: sha512-gJiHrx5uTTHq44bjyIb3xpbmmdZcWLYPKeO9EPVOq8EylMFOiH2+9sWqKAiQ4DcFuOZTAxPOQyv0Rnmji/g15A==}
+    dependencies:
+      d3-hierarchy: 1.1.9
+    dev: false
+
   /d3-force/3.0.0:
     resolution: {integrity: sha512-zxV/SsA+U4yte8051P4ECydjD/S+qeYtnaIyAs9tgHCqfguma/aAQDjo85A9Z6EKhBirHRJHXIgJUlffT4wdLg==}
     engines: {node: '>=12'}
@@ -1681,6 +1695,10 @@ packages:
     engines: {node: '>=12'}
     dependencies:
       d3-array: 3.2.2
+    dev: false
+
+  /d3-hierarchy/1.1.9:
+    resolution: {integrity: sha512-j8tPxlqh1srJHAtxfvOUwKNYJkQuBFdM1+JAUfq6xqH5eAqf93L7oG1NVqDa4CpFZNvnNKtCYEUC8KY9yEn9lQ==}
     dev: false
 
   /d3-hierarchy/3.1.2:
