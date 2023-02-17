@@ -164,6 +164,7 @@ const Hierarchy = () => {
         data.forEach(function(d:any) {                              
              d.MANAGER_ID = d.MANAGER_ID === "0" ? '' : d.MANAGER_ID;                                   
         }); 
+        console.log('have data')
         setData(data)
     }
 
